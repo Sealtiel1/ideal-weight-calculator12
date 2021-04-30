@@ -3,9 +3,15 @@ ion-content
 h2{
   color: rgb(0, 0, 0);
   font-family: Georgia, serif;
+  text-align: center;
 }
+h3{
+  text-align: center;
+}
+
 p {
   font-family: system-ui;
-  text-align: justify;
+  text-align: center;
   font-size: ;
+  
 }
