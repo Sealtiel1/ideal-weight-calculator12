@@ -6,6 +6,7 @@ import { NavController, Select } from "ionic-angular";
 @Component({
   selector: "page-contact",
   templateUrl: "contact.html",
+   styleUrls: ['contact.css']
 })
 
 export class ContactPage {
